@@ -1,4 +1,6 @@
-# VLSI-LAB-EXP-6
+# SCHEMATIC ENTRY AND CIRCUIT SIMULATION OF A CMOS INVERTER,TWO INPUT NAND GATE,TWO INPUT NOR GATE
+
+DATE:
 
 # AIM:
 
@@ -127,7 +129,7 @@ pulse width = 20ns
 
 ## Vdc	= 1
 
-# Expected Waveform: 
+## Expected Waveform: 
 
 ## Transient Analysis:
 
